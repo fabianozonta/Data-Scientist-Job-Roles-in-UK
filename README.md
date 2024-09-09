@@ -18,12 +18,12 @@ pip install pandas matplotlib
 
 ## Outputs
 The script performs the following analyses and generates visual outputs:
-Total Number of Job Listings: Displays the total count of job listings in the dataset.
-Location Analysis: Analyzes the top 5 locations with the highest number of job listings and saves a bar chart as top_locations.png.
-Salary Analysis: Calculates and prints the average salary range, highest, and lowest offered salaries. If the Salary column is missing, an appropriate message will be shown.
-Most Common Skills: Identifies and lists the top 10 most common skills found in the dataset and saves a bar chart as top_skills.png. If the Skills column is missing, an appropriate message will be shown.
-Company Ratings: Calculates and prints the average company rating, highest-rated company, and lowest-rated company. If the Company Score column is missing, an appropriate message will be shown.
-Job Titles: Displays the top 5 most common job titles and saves a bar chart as top_job_titles.png. If the Job Title column is missing, an appropriate message will be shown.
+- Total Number of Job Listings: Displays the total count of job listings in the dataset.
+- Location Analysis: Analyzes the top 5 locations with the highest number of job listings and saves a bar chart as top_locations.png.
+- Salary Analysis: Calculates and prints the average salary range, highest, and lowest offered salaries. If the Salary column is missing, an appropriate message will be shown.
+- Most Common Skills: Identifies and lists the top 10 most common skills found in the dataset and saves a bar chart as top_skills.png. If the Skills column is missing, an appropriate message will be shown.
+- Company Ratings: Calculates and prints the average company rating, highest-rated company, and lowest-rated company. If the Company Score column is missing, an appropriate message will be shown.
+- Job Titles: Displays the top 5 most common job titles and saves a bar chart as top_job_titles.png. If the Job Title column is missing, an appropriate message will be shown.
 
 ## Visual Outputs
 The script will generate the following visualizations:
